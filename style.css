@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+}
+
+#heading{
+    text-align: center;
+    font-family:  Cascadia Mono;
+    color: rgb(26, 243, 14);
+    
+}
+
+#para{
+
+    text-align: center;
+    font-family:  Cascadia Mono;
+    color: rgb(26, 243, 14);
+     
+}
+
+#thmbadge{
+    
+     text-align: center;
+}
+
+.center
+{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 50%;
+  height: 50%;
+  /* background-color: azure; */
+  border-radius: 3px;
+}
+
+#heading1{
+
+    text-align: center;
+    font-family:  Cascadia Mono;
+    color: rgb(255, 98, 0);
+}
+
+#footer{
+
+    text-align: center;
+    font-family:  Cascadia Mono;
+    color: rgb(0, 21, 255);
+}
